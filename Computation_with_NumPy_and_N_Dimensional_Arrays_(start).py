@@ -1,3 +1,13 @@
+"""Manipulating N Dimensional Arrays with NumPy
+
+This 'script' leverages NumPy's ndarrays to manipulate images. A raccoon image from scipy
+is imported and read using PIL to manipulate the image and change it's color to grey scale with NumPy.
+
+This script requires that 'numpy', 'Matplotlib', 'PIL', and 'scipy' be installed within the Python
+environment you are running this script in.
+
+"""
+
 #!/usr/bin/env python
 # coding: utf-8
 
